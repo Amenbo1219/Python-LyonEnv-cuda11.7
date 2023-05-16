@@ -63,8 +63,7 @@ RUN pip install --no-cache-dir \
     torch==1.11.0+cu113 torchvision==0.12.0+cu113  -f https://download.pytorch.org/whl/torch_stable.html
 
 RUN pip install --no-cache-dir \
-    tensorflow \
-    nvidia-cudnn-cu11==8.6.0.163 
+    tensorflow 
 # 研究室用追加パッケージ
 RUN pip install --no-cache-dir \
     pip install praat-parselmouth
