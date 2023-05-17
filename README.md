@@ -1,2 +1,2 @@
-# python-Lyon-Env
-setup Pytorch 1.11,notSupport Tensorflow&amp;Cuda11.7,cudnn8,JupyterServer
+# python-Lyon-Env notSupport Tensorflow
+setup Pytorch 1.11,&amp;Cuda11.7,cudnn8,JupyterServer
